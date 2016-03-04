@@ -1,9 +1,19 @@
-layout_spectrum: 0
-typography_spectrum: 0.3880099
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.2905602
+  brandStrength: 1
   lightness: 0.1344225
-  brandStrength: 0.8254315
   brandColors:
     - '#000000'
     - '#27F200'
@@ -11,4 +21,6 @@ color:
     - '#9A9A9A'
     - '#FB0200'
   rhythmicContrast: 0.9736162
+typography_spectrum: 0.3880099
+layout_spectrum: 0
 name: TestBot
