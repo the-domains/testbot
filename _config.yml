@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.3880099
+color:
+  saturation: 0.2905602
+  lightness: 0.1344225
+  brandStrength: 0.8254315
+  brandColors:
+    - '#000000'
+    - '#27F200'
+    - '#5B5B5B'
+    - '#9A9A9A'
+    - '#FB0200'
+  rhythmicContrast: 0.9736162
+name: TestBot
